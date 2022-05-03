@@ -1,7 +1,7 @@
 # React Hooks Revision
 
 - [x] useState
-- [ ] UseReducer
+- [x] UseReducer
 - [ ] UseEffect
 - [ ] UseRef
 - [ ] UseLayoutEffect
