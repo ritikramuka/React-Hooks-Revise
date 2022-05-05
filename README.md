@@ -2,8 +2,8 @@
 
 - [x] useState
 - [x] UseReducer
-- [ ] UseEffect
-- [ ] UseRef
+- [x] UseEffect
+- [x] UseRef
 - [ ] UseLayoutEffect
 - [ ] UseImperativeHandle
 - [ ] UseContext
