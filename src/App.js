@@ -1,5 +1,6 @@
 import './App.css';
 import UseEffectHook from './UseEffectHook';
+import UseLayoutEffect from './UseLayoutEffect';
 import UseReducerHook from './UseReducerHook';
 import UseRefHook from './UseRefHook';
 import UseStateHook from './UseStateHook';
@@ -10,7 +11,8 @@ function App() {
       {/* <UseStateHook></UseStateHook> */}
       {/* <UseReducerHook></UseReducerHook> */}
       {/* <UseEffectHook></UseEffectHook> */}
-      <UseRefHook></UseRefHook>
+      {/* <UseRefHook></UseRefHook> */}
+      <UseLayoutEffect></UseLayoutEffect>
     </div>
   );
 }
